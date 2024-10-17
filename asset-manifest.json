@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/shop_test.github.io/static/css/main.49640f01.css",
+    "main.js": "/shop_test.github.io/static/js/main.80c3e607.js",
+    "static/media/energy_drinks.jpg": "/shop_test.github.io/static/media/energy_drinks.65a0e239bbc94b0481ba.jpg",
+    "static/media/monster_energy_assualt.jpg": "/shop_test.github.io/static/media/monster_energy_assualt.f801affbb91b1d7f6752.jpg",
+    "static/media/monster_energy_juiced_mango_loco.jpg": "/shop_test.github.io/static/media/monster_energy_juiced_mango_loco.33e5c65c266de612c84a.jpg",
+    "static/media/monster_energy_juiced_khaotic.jpg": "/shop_test.github.io/static/media/monster_energy_juiced_khaotic.6371aad3cfd867285762.jpg",
+    "static/media/flash_up_energy.jpg": "/shop_test.github.io/static/media/flash_up_energy.5ce91dc773572de19afc.jpg",
+    "static/media/flash_up_ultra_energy.jpg": "/shop_test.github.io/static/media/flash_up_ultra_energy.87a4c08f06ff8b697f8d.jpg",
+    "static/media/red_bull.jpg": "/shop_test.github.io/static/media/red_bull.f2e6d27618d7aec5fe2f.jpg",
+    "static/media/tornado_energy_mango.jpg": "/shop_test.github.io/static/media/tornado_energy_mango.d30e66a12f04fcf4fc54.jpg",
+    "static/media/monster_ultra_rosa.jpg": "/shop_test.github.io/static/media/monster_ultra_rosa.f6fba78790fdb018b385.jpg",
+    "static/media/jaguar.jpg": "/shop_test.github.io/static/media/jaguar.79cce2a34b0b9df730ff.jpg",
+    "static/media/tornado_energy_storm.jpg": "/shop_test.github.io/static/media/tornado_energy_storm.0cab0a8b32d9bbbfc5ee.jpg",
+    "static/media/tornado_energy_active.jpg": "/shop_test.github.io/static/media/tornado_energy_active.9a89fdf969e3cda421e9.jpg",
+    "static/media/monster_energy_juiced_aussie_lemonade_style.jpg": "/shop_test.github.io/static/media/monster_energy_juiced_aussie_lemonade_style.95769d15afebf67367a5.jpg",
+    "static/media/tornado_energy_bubble.jpg": "/shop_test.github.io/static/media/tornado_energy_bubble.a46e684cde591ac8c253.jpg",
+    "index.html": "/shop_test.github.io/index.html",
+    "main.49640f01.css.map": "/shop_test.github.io/static/css/main.49640f01.css.map",
+    "main.80c3e607.js.map": "/shop_test.github.io/static/js/main.80c3e607.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49640f01.css",
+    "static/js/main.80c3e607.js"
+  ]
+}
